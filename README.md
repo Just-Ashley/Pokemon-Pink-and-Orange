@@ -13,3 +13,7 @@ Version number is based off of;
 -Color Hex code (name of the game you chose to download)
 
 EX: 1.0.2026.10.10.151512001211 would be the release version of Pink (#FFC0CB) if I released it on the 10th of October in 2026.
+
+Game differences:
+-Pink is going to be my focus so you may notice that Orange has less versions.
+-Pokemon available
